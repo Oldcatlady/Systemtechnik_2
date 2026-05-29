@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Welche Anschlüsse übertragen Bild UND Ton?",
+        "type": "mc",
+        "options": [
+            "A) HDMI, DisplayPort, USB-C",
+            "B) VGA",
+            "C) PS/2",
+            "D) LAN"
+        ],
+        "answer": "A",
+        "explanation": "HDMI, DisplayPort und USB-C (mit entsprechendem Protokoll) sind digitale Schnittstellen, die sowohl Videosignal als auch Audiosignal in einem einzigen Kabel übertragen. VGA ist ein älterer analoger Standard, der nur Bildsignale ohne Ton überträgt. PS/2 und LAN sind für Eingabegeräte bzw. Netzwerke zuständig und haben nichts mit der Bildübertragung zu tun."
+    },
+    {
+        "question": "Welcher Monitoranschluss ist analog?",
+        "type": "mc",
+        "options": [
+            "A) HDMI",
+            "B) USB-C",
+            "C) DisplayPort",
+            "D) VGA"
+        ],
+        "answer": "D",
+        "explanation": "VGA (Video Graphics Array) ist ein älterer analoger Bildübertragungsstandard aus den 1980er Jahren und überträgt das Signal als analoge Spannung. Analoge Signale sind anfälliger für Rauschen und Qualitätsverluste, besonders bei langen Kabeln oder hohen Auflösungen. Moderne Monitore und Grafikkarten setzen auf digitale Schnittstellen wie HDMI oder DisplayPort."
+    },
+    {
+        "question": "Was ist die Pivot-Funktion bei einem Monitor?",
+        "type": "mc",
+        "options": [
+            "A) Monitor drehen",
+            "B) Helligkeit ändern",
+            "C) Auflösung ändern",
+            "D) Ton erhöhen"
+        ],
+        "answer": "A",
+        "explanation": "Die Pivot-Funktion ermöglicht es, den Monitor physisch um 90° zu drehen, sodass er im Hochformat (Portrait) betrieben werden kann. Das ist besonders nützlich für das Lesen langer Dokumente, Webseiten oder beim Programmieren. Monitore mit Pivot haben in der Regel einen entsprechend flexiblen Standfuß."
+    },
+    {
+        "question": "Warum ist eine Höhenverstellung am Monitor ergonomisch sinnvoll?",
+        "type": "mc",
+        "options": [
+            "A) Entlastet Nacken und Rücken",
+            "B) Erhöht FPS",
+            "C) Spart Strom",
+            "D) Verbessert Farben"
+        ],
+        "answer": "A",
+        "explanation": "Eine verstellbare Monitorhöhe ermöglicht es, den Bildschirm auf Augenhöhe auszurichten, was eine aufrechte Kopfhaltung fördert. Ohne Höhenverstellung sind viele Nutzer gezwungen, den Kopf nach oben oder unten zu neigen, was langfristig zu Nacken- und Rückenproblemen führt. Ergonomische Arbeitsplätze fordern daher immer eine individuell anpassbare Monitorposition."
+    },
+    {
+        "question": "Wofür wird der sRGB-Farbraum hauptsächlich verwendet?",
+        "type": "mc",
+        "options": [
+            "A) Web und Office",
+            "B) Gaming",
+            "C) Netzwerke",
+            "D) VR"
+        ],
+        "answer": "A",
+        "explanation": "sRGB ist der Standard-Farbraum für das Web, Office-Anwendungen und Consumer-Elektronik und wurde von HP und Microsoft entwickelt. Nahezu alle Webseiten, Browser und Betriebssysteme verwenden sRGB als Basis. Für professionelle Druckvorstufe oder hochwertige Fotografie reicht sRGB oft nicht aus – hier kommt AdobeRGB zum Einsatz."
+    },
+    {
+        "question": "Wofür wird AdobeRGB genutzt?",
+        "type": "mc",
+        "options": [
+            "A) Professionelle Bildbearbeitung",
+            "B) Gaming",
+            "C) Filme",
+            "D) Office"
+        ],
+        "answer": "A",
+        "explanation": "AdobeRGB deckt einen deutlich größeren Farbraum ab als sRGB – besonders im Cyan- und Grünbereich – und ist der Standard für professionelle Fotografie und Druckvorstufe. Monitore mit AdobeRGB-Unterstützung können Farben darstellen, die für Druck und Publikation relevant sind, aber auf normalen Bildschirmen nicht sichtbar wären. Für den Alltagseinsatz im Web ist AdobeRGB nicht notwendig."
+    },
+    {
+        "question": "Was bedeutet HDR?",
+        "type": "mc",
+        "options": [
+            "A) High Dynamic Range",
+            "B) High Display Resolution",
+            "C) Hyper Dynamic Refresh",
+            "D) HD Rendering"
+        ],
+        "answer": "A",
+        "explanation": "HDR (High Dynamic Range) ermöglicht eine deutlich größere Spanne zwischen den hellsten und dunkelsten Bereichen eines Bildes als Standard-Displays. Details in sehr hellen Lichtern und tiefen Schatten bleiben gleichzeitig sichtbar, was ein realistischeres und lebendigeres Bild ergibt. Für echtes HDR benötigt der Monitor eine hohe Spitzenhelligkeit und ein hohes Kontrastverhältnis."
+    },
+    {
+        "question": "Was ist der Vorteil von Curved-Monitoren?",
+        "type": "mc",
+        "options": [
+            "A) Stärkeres Eintauchen",
+            "B) Weniger Farben",
+            "C) Schlechtere Sicht",
+            "D) Keine Vorteile"
+        ],
+        "answer": "A",
+        "explanation": "Die Krümmung eines Curved-Monitors passt sich dem natürlichen Sichtfeld des menschlichen Auges an, was ein immersiveres Seherlebnis erzeugt. Besonders bei großen Bildschirmen ab 27 Zoll empfinden viele Nutzer Curved-Displays als angenehmer, da die Bildränder gleichweit entfernt sind. Bei Spielen und Filmen sorgt die gebogene Darstellung für ein stärkeres Eintauchen ins Geschehen."
+    },
+    {
+        "question": "Wann sind flache Monitore gegenüber Curved-Monitoren vorteilhafter?",
+        "type": "mc",
+        "options": [
+            "A) Bei mehreren Monitoren",
+            "B) Beim Gaming",
+            "C) Bei OLED",
+            "D) Nie"
+        ],
+        "answer": "A",
+        "explanation": "In einem Multi-Monitor-Setup sind flache Bildschirme besser geeignet, da sie nahtlos nebeneinander positioniert werden können ohne störende Lücken oder Verzerrungen. Curved-Monitore sind für den Solo-Einsatz optimiert und verlieren ihren ergonomischen Vorteil, sobald man von der Seite schaut. Für präzise grafische Arbeit mit geraden Linien und Rasterbildern sind flache Panels ebenfalls bevorzugt."
+    },
+    {
+        "question": "Was erhöht den Energieverbrauch eines Monitors?",
+        "type": "mc",
+        "options": [
+            "A) Große Displays und HDR",
+            "B) Niedrige Helligkeit",
+            "C) IPS",
+            "D) VGA"
+        ],
+        "answer": "A",
+        "explanation": "Größere Displayflächen benötigen mehr Hintergrundbeleuchtung, was den Stromverbrauch direkt erhöht. HDR-Monitore müssen zusätzlich sehr hohe Spitzenhelligkeit erreichen können, was weitere Energie erfordert. OLED-Displays verbrauchen dagegen bei dunklen Inhalten wenig Strom, da jeder Pixel einzeln leuchtet."
+    },
+    {
+        "question": "Wie viel cm sind 27 Zoll?",
+        "type": "mc",
+        "options": [
+            "A) 68,6 cm",
+            "B) 54 cm",
+            "C) 72 cm",
+            "D) 90 cm"
+        ],
+        "answer": "A",
+        "explanation": "Ein Zoll entspricht 2,54 cm, daher ergibt sich: 27 × 2,54 = 68,58 cm, gerundet 68,6 cm. Diese Umrechnung gilt für die Diagonale des Displays, nicht für Breite oder Höhe. 27 Zoll ist aktuell einer der beliebtesten Monitorgrößen für Gaming und Büroarbeit."
+    },
+    {
+        "question": "Wie nennt man die Auflösung 3840×2160?",
+        "type": "mc",
+        "options": [
+            "A) HD",
+            "B) Full HD",
+            "C) 4K",
+            "D) QHD"
+        ],
+        "answer": "C",
+        "explanation": "3840×2160 Pixel entspricht dem 4K-Standard (auch UHD – Ultra High Definition genannt) und hat viermal so viele Pixel wie Full HD. Das Bild wirkt dadurch erheblich schärfer, besonders auf großen Monitoren oder wenn man nah sitzt. 4K erfordert allerdings eine leistungsstarke Grafikkarte, um flüssig in Spielen betrieben zu werden."
+    },
+    {
+        "question": "Was ist wichtig für flüssiges Gaming?",
+        "type": "mc",
+        "options": [
+            "A) Hohe Hz und geringe Reaktionszeit",
+            "B) Niedrige Auflösung",
+            "C) VGA",
+            "D) Große Lautsprecher"
+        ],
+        "answer": "A",
+        "explanation": "Für flüssiges Gaming braucht man eine hohe Bildwiederholrate (Hz), damit viele Frames pro Sekunde dargestellt werden, sowie eine niedrige Reaktionszeit, damit Bewegungen scharf und ohne Nachziehen erscheinen. Beides zusammen – oft ergänzt durch Adaptive Sync – sorgt für das beste Spielgefühl. Auflösung, Lautsprecher und Anschlusstyp sind für Flüssigkeit sekundär."
+    },
+    {
+        "question": "Was ist der Vorteil von IPS gegenüber VA?",
+        "type": "mc",
+        "options": [
+            "A) Bessere Farben",
+            "B) Schlechtere Blickwinkel",
+            "C) Weniger Kontrast",
+            "D) Mehr Stromverbrauch"
+        ],
+        "answer": "A",
+        "explanation": "IPS-Panels zeigen präzisere und konsistentere Farben über ein breiteres Spektrum als VA-Panels und sind daher der bevorzugte Typ für Farbkorrekturen und Designarbeit. Zusätzlich sind die Blickwinkel bei IPS deutlich stabiler als bei VA. VA-Panels haben dagegen Vorteile beim nativen Kontrast und bei tiefen Schwarzwerten."
+    },
+    {
+        "question": "Warum ist OLED als Displaytechnologie besonders hochwertig?",
+        "type": "mc",
+        "options": [
+            "A) Perfektes Schwarz und hoher Kontrast",
+            "B) Wegen VGA",
+            "C) Wegen niedriger Hz",
+            "D) Wegen niedriger Auflösung"
+        ],
+        "answer": "A",
+        "explanation": "Bei OLED leuchtet jeder Pixel einzeln und kann vollständig abgeschaltet werden, was echtes, absolutes Schwarz ermöglicht – im Gegensatz zu LCD-Panels mit Hintergrundbeleuchtung. Dadurch ergibt sich ein theoretisch unendliches Kontrastverhältnis. Außerdem reagieren OLED-Pixel extrem schnell und liefern lebendige, satte Farben."
+    },
+    {
+        "question": "Welcher Monitor eignet sich besser für Office-Arbeit?",
+        "type": "mc",
+        "options": [
+            "A) 60-Hz-IPS",
+            "B) 240-Hz-Gaming",
+            "C) TN",
+            "D) CRT"
+        ],
+        "answer": "A",
+        "explanation": "Für Office-Arbeit sind gute Farbtreue, stabile Blickwinkel und ein augenschonendes Bild wichtiger als eine hohe Bildwiederholrate. Ein 60-Hz-IPS-Monitor bietet genau das zu einem vernünftigen Preis. Ein 240-Hz-Gaming-Monitor wäre hier eine teure Überspezifikation, da der Unterschied zu 60 Hz in Textdokumenten oder Tabellen nicht spürbar ist."
+    },
+    {
+        "question": "Was ist der Unterschied zwischen Hz und Reaktionszeit?",
+        "type": "mc",
+        "options": [
+            "A) Hz=Bildrate / Reaktionszeit=Pixelwechsel",
+            "B) Beides gleich",
+            "C) Hz=Auflösung",
+            "D) Reaktionszeit=Farben"
+        ],
+        "answer": "A",
+        "explanation": "Hz (Bildwiederholrate) gibt an, wie viele vollständige Bilder der Monitor pro Sekunde aufbaut – z. B. 144 Hz = 144 Bilder/Sekunde. Die Reaktionszeit hingegen beschreibt, wie schnell ein einzelner Pixel seine Farbe wechseln kann, gemessen in Millisekunden. Beide Werte sind für Gaming relevant, beschreiben aber verschiedene Aspekte der Monitorperformance."
+    },
+    {
+        "question": "Warum profitieren große Monitore besonders von hoher Auflösung?",
+        "type": "mc",
+        "options": [
+            "A) Schärferes Bild",
+            "B) Weniger Strom",
+            "C) Mehr Lautsprecher",
+            "D) Mehr Gewicht"
+        ],
+        "answer": "A",
+        "explanation": "Je größer die Displayfläche, desto weiter werden die Pixel verteilt – bei gleicher Auflösung sinkt damit die Pixeldichte (PPI) und das Bild wirkt unschärfer. Eine höhere Auflösung erhält die Schärfe auch auf großen Bildschirmen, weil mehr Pixel auf derselben Fläche verteilt sind. Auf einem 32-Zoll-Monitor ist der Unterschied zwischen Full HD und 4K deutlich sichtbar."
+    },
+    {
+        "question": "Warum ist IPS besser für Designer und Kreative?",
+        "type": "mc",
+        "options": [
+            "A) Bessere Farben und Blickwinkel",
+            "B) Wegen VGA",
+            "C) Wegen Lautsprechern",
+            "D) Wegen Stromverbrauch"
+        ],
+        "answer": "A",
+        "explanation": "Designer benötigen Farbtreue – also dass die Farben auf dem Bildschirm genau dem entsprechen, was gedruckt oder veröffentlicht wird. IPS-Panels bieten die beste Farbgenauigkeit und Blickwinkelstabilität unter allen LCD-Typen. Außerdem stellen viele IPS-Monitore breite Farbräume wie sRGB oder AdobeRGB präzise dar."
+    },
+    {
+        "question": "Was ist für einen Gaming-Monitor besonders wichtig?",
+        "type": "mc",
+        "options": [
+            "A) Hohe Hz, geringe Reaktionszeit, Adaptive Sync",
+            "B) VGA",
+            "C) Niedrige Helligkeit",
+            "D) Wenige Pixel"
+        ],
+        "answer": "A",
+        "explanation": "Ein guter Gaming-Monitor kombiniert hohe Bildwiederholrate (144 Hz oder mehr) für flüssige Darstellung, geringe Reaktionszeit (1–5 ms) gegen Ghosting und Adaptive Sync (FreeSync/G-Sync) gegen Screen-Tearing. Diese drei Faktoren zusammen maximieren das Spielerlebnis. Anschlüsse, Helligkeit und Pixelanzahl sind ebenfalls relevant, aber nicht die Kernkriterien."
+    }
+]
